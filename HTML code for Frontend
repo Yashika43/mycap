@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <ul>
+        <li><a href="#Booksera">Booksera</a></li>
+        <link rel="stylesheet" href="bo.css">
+        <li><a href="#Home">Home</a></li>
+        <li><a href="#Books Store">Books Store</a></li>
+        <li><a href="#Articles">Articles</a></li>
+        <li><a href="#Reader's Panel">Reader's Panel</a></li>
+        <li><a href="#My Account">My Account</a></li>
+        <li><a href="#About Us">About Us</a></li>
+        <li><a href="#Contact Us">Contact Us</a></li>
+    </ul>
+    <link rel="stylesheet" href="bg.css">
+    <title>Booksera</title>
+</head>
+
+<body>
+    <img src="https://images.unsplash.com/photo-1512820790803-83ca734da794?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1198&q=80"
+        width="1510px;" height="650px;">
+    <h1>Reader's Panel</h1>
+    <img src="https://images.unsplash.com/photo-1568822617270-2c1579f8dfe2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fHN0dWRlbnRzJTIwcmVhZGluZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+        width="400px;" height="370px;">
+    <p>“A room without books is like a body without a soul.”
+        <br>
+        <br>"African Redemption" is an extremely powerful story of a young Southern African, from his late high school
+        days through three years of college to his life in Harlem. His early training preparedhim for a life of humility
+        before white men, but through injustices- large and small, he came to realize that he wasan "invisible man".
+        People saw in him only a reflection oftheir preconceived ideas of what he was, denied his individuality,and
+        ultimately did not see him at all. This theme, which has implications far beyond the obvious racial parallel, is
+        skillfully handled. The incidents of the story are wholly absorbing.
+    </p>
+    <p>-Lia</p>
+    <img src="https://images.unsplash.com/photo-1511250503134-89501c53a815?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fHN0dWRlbnRzJTIwcmVhZGluZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+        width="400px;" height="370px;">
+    <p>“Good friends, good books, and a sleepy conscience: this is the ideal life.”
+        <br>
+        <br>Oh my God. I got the chills so many times toward the end of "My truths". It completely blew my mind. It
+        managed to surpass my high expectations and be nothing at all like I expected. Or in Newspeak "Double Plus
+        Good." Let me preface this with an apology. If I sound stunningly inarticulate at times in this review, I can't
+        help it. My mind is completely fried.
+    </p>
+    <p>-Rubina</p>
+    <img src="https://images.unsplash.com/photo-1612177953540-c6e53c43b6fe?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjd8fHN0dWRlbnRzJTIwcmVhZGluZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+        width="400px;" height="370px;">
+    <p>“Never trust anyone who has not brought a book with them.”
+        <br>
+        <br>Three-quarters of the way through Lisa Halliday's debut novel,"Asymmetry", a British foreign correspondent
+        named Alistair is spending Christmas on a compound outside of Baghdad. His fellow revelers include camera men,
+        defense contractors, United Nations employees and aid workers. Best Book.
+    </p>
+    <p>-Jason</p>
+    <img src="https://images.unsplash.com/photo-1516182823370-7a5fa91445c3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzF8fHN0dWRlbnRzJTIwcmVhZGluZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+        width="400px;" height="370px;">
+    <p>“If one cannot enjoy reading a book over and over again, there is no use in reading it at all.”
+        <br>
+        <br>In Doane's debut novel, "A Journey unexpected" a young man embarks on a journey of self-discovery with
+        surprising results. An unnamed protagonist(The Narrator) is dealing with heartbreak. His love, determined to see
+        the world, sets out for Portland, Oregon. But he's asmall-town boy who hasn't traveled much. So, the Narrator
+        mournsher loss and hides from life, throwing himself into rehabbing anold motorcycle. Until one day, he takes a
+        leap; he packs his bikeand a few belongings and heads out to find the Girl.
+    </p>
+    <p>-Daisy</p>
+    <h1>About Us</h1>
+    <p>Booksera is a place where you can find Books and Magazines of different genres and languages. Millions of people
+        use Booksera for getting their work done especially students, due to the pandemic many students were forced to
+        rely on online study material and hence Booksera proved to be their study partner in different ways. We hope
+        that you will dive into the world of books with Booksera. Happy Reading.</p>
+    <h3>Explore</h3>
+    <h5>Home</h5>
+    <h5>About</h5>
+    <h5>Careers</h5>
+    <h5>FAQs</h5>
+    <h3>Legal</h3>
+    <h5>Terms</h5>
+    <h5>Privacy</h5>
+    <h3>Contact Us</h3>
+    <img src="https://cdn-icons-png.flaticon.com/128/174/174855.png" width="50px;" height="50px;">
+    <h5>Instagram: booksera</h5>
+    <img src="https://cdn-icons.flaticon.com/png/128/2504/premium/2504903.png?token=exp=1639751315~hmac=16c7c30536602bc5841eb9f5f51d4f75"
+        width="50px;" height="50px;">
+    <h5>Facebook: Booksera</h5>
+    <img src="https://cdn-icons.flaticon.com/png/128/3256/premium/3256013.png?token=exp=1639751354~hmac=1b1b49afc5ef1ffd5afca0fcff1a8b9e"
+        width="50px;" height="50px;">
+    <h5>Twitter: BookSera</h5>
+    <img src="https://cdn-icons.flaticon.com/png/128/3536/premium/3536505.png?token=exp=1639751421~hmac=33ec1ec9b0d86d4e5ac9d4060c0e30ae"
+        width="50px;" height="50px;">
+    <h6>LinkedIn: Booksera</h6>
+    <h6>Report an Accessibility Issue</h6>
+    <h6>Report a broken link</h6>
+    <h6>Lajpat Nagar,Delhi India </h6>
+</body>
+
+</html>
