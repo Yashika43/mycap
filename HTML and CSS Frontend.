@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Booksera</title>
+    <style>
+        ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            background-color: rgb(255, 255, 255);
+        }
+
+        li {
+            float: left;
+            margin: 10px;
+            font-size: 20px;
+        }
+
+        li a {
+            display: block;
+            color: rgb(0, 0, 0);
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+
+        .li {
+            font-family: "Times New Roman", Times, serif;
+        }
+
+        h1 {
+            text-align: center;
+            padding: 14px 16px;
+        }
+
+        img {
+            padding: 0px 10px;
+        }
+
+        div {
+            padding: 0px 50px;
+        }
+
+        .right {
+            position: absolute;
+            top: 850px;
+            right: 0px;
+            width: 500px;
+            height: 200px;
+            padding: 0px 50px;
+        }
+
+        .left {
+            position: absolute;
+            top: 1300px;
+            left: 0px;
+            width: 500px;
+            height: 200px;
+            padding: 0px 50px;
+        }
+
+        .right1 {
+            position: absolute;
+            top: 1750px;
+            right: 0px;
+            width: 500px;
+            height: 200px;
+            padding: 0px 50px;
+        }
+
+        .left1 {
+            position: absolute;
+            top: 2200px;
+            left: 0px;
+            width: 500px;
+            height: 200px;
+            padding: 0px 50px;
+        }
+
+        footer {
+            background-color: rgb(255, 112, 112);
+            color: black;
+            padding: 10px;
+        }
+    </style>
+
+</head>
+
+<body>
+    <ul>
+        <li style="float:left"><a href="#Booksera">Booksera</a></li>
+        <li style="float:right"><a class="active" href="#Contact Us">Contact Us</a></li>
+        <li style="float:right"><a class="active" href="#About Us">About Us</a></li>
+        <li style="float:right"><a class="active" href="#My Account">My Account</a></li>
+        <li style="float:right"><a class="active" href="#Articles">Articles</a></li>
+        <li style="float:right"><a class="active" href="#Books Store">Books Store</a></li>
+        <li style="float:right"><a class="active" href="#Reader's Panel">Reader's Panel</a></li>
+        <li style="float:right"><a class="active" href="#Home">Home</a></li>
+    </ul>
+    <img src="https://images.unsplash.com/photo-1512820790803-83ca734da794?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1198&q=80"
+        width="1490px;" height="650px;">
+    <h1>Reader's Panel</h1>
+    <div>
+        <img src="https://images.unsplash.com/photo-1568822617270-2c1579f8dfe2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fHN0dWRlbnRzJTIwcmVhZGluZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+            width="400px;" height="370px;">
+    </div>
+    <div class="right">
+        <p>“A room without books is like a body without a soul.”
+            <br>
+            <br>"African Redemption" is an extremely powerful story of a young Southern African, from his late high
+            school
+            days through three years of college to his life in Harlem. His early training prepared him for a life of
+            humility before white men, but through injustices- large and small, he came to realize that he was an
+            "invisible man".
+            People saw in him only a reflection of their preconceived ideas of what he was, denied his individuality,
+            and
+            ultimately did not see him at all. This theme, which has implications far beyond the obvious racial
+            parallel, is
+            skillfully handled. The incidents of the story are wholly absorbing.
+            <br><br>
+            -Lia
+        </p>
+    </div>
+    <br><br>
+    <div>
+        <img align="right"
+            src="https://images.unsplash.com/photo-1511250503134-89501c53a815?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fHN0dWRlbnRzJTIwcmVhZGluZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+            width="400px;" height="370px;">
+    </div>
+    <div class="left">
+        <p>“Good friends, good books, and a sleepy conscience: this is the ideal life.”
+            <br>
+            <br>Oh my God. I got the chills so many times toward the end of "My truths". It completely blew my mind. It
+            managed to surpass my high expectations and be nothing at all like I expected. Or in Newspeak "Double Plus
+            Good". Let me preface this with an apology. If I sound stunningly inarticulate at times in this review, I
+            can't
+            help it. My mind is completely fried.
+            <br><br>
+            -Rubina
+        </p>
+    </div>
+    <br>
+    <div>
+        <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+        <img src="https://images.unsplash.com/photo-1612177953540-c6e53c43b6fe?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjd8fHN0dWRlbnRzJTIwcmVhZGluZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+            width="400px;" height="370px;">
+    </div>
+    <br><br>
+    <div class="right1">
+        <p>“Never trust anyone who has not brought a book with them.”
+            <br>
+            <br>Three-quarters of the way through Lisa Halliday's debut novel,"Asymmetry", a British foreign
+            correspondent
+            named Alistair is spending Christmas on a compound outside of Baghdad. His fellow revelers include camera
+            men,
+            defense contractors, United Nations employees and aid workers. Best Book.
+            <br><br>-Jason
+        </p>
+    </div>
+    <br>
+    <div>
+        <img align="right"
+            src="https://images.unsplash.com/photo-1516182823370-7a5fa91445c3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzF8fHN0dWRlbnRzJTIwcmVhZGluZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+            width="400px;" height="370px;">
+    </div>
+    <br><br>
+    <div class="left1">
+        <p>“If one cannot enjoy reading a book over and over again, there is no use in reading it at all.”
+            <br>
+            <br>In Doane's debut novel, "A Journey unexpected" a young man embarks on a journey of self-discovery with
+            surprising results. An unnamed protagonist is dealing with heartbreak. His love, determined to
+            see
+            the world, sets out for Portland, Oregon. But he's asmall-town boy who hasn't traveled much. So, the
+            Narrator
+            mourns her loss and hides from life, throwing himself into rehabbing an old motorcycle. Until one day, he
+            takes a
+            leap; he packs his bike and a few belongings and heads out to find the Girl.
+            <br><br>-Daisy
+        </p>
+    </div>
+    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+    <h1>About Us</h1>
+    <p>Booksera is a place where you can find Books and Magazines of different genres and languages. Millions of people
+        use Booksera for getting their work done especially students, due to the pandemic many students were forced to
+        rely on online study material and hence Booksera proved to be their study partner in different ways. We hope
+        that you will dive into the world of books with Booksera. Happy Reading.</p>
+    <footer>
+        <p>Copyright &copy; Booksera 2021. All rights reserved.</p>
+        <h3>Explore</h3>
+        <h5>Home</h5>
+        <h5>About</h5>
+        <h5>Careers</h5>
+        <h5>FAQs</h5>
+        <h3>Legal</h3>
+        <h5>Terms</h5>
+        <h5>Privacy</h5>
+        <h3>Contact Us</h3>
+        <img src="https://cdn-icons.flaticon.com/png/128/3938/premium/3938052.png?token=exp=1640507470~hmac=05ec95533fd89a01de44256b5b702b1a"
+            width="50px;" height="50px;">
+        <h5>Instagram: booksera</h5>
+        <img src="https://cdn-icons-png.flaticon.com/128/1051/1051309.png" width="50px;" height="50px;">
+        <h5>Facebook: Booksera</h5>
+        <img src="https://cdn-icons-png.flaticon.com/128/25/25347.png" width="50px;" height="50px;">
+        <h5>Twitter: BookSera</h5>
+        <img src="https://cdn-icons.flaticon.com/png/128/3536/premium/3536569.png?token=exp=1640507588~hmac=ede8d5cee3f30868b25b280dd2753edc"
+            width="50px;" height="50px;">
+        <h6>LinkedIn: Booksera</h6>
+        <h6>Report an Accessibility Issue</h6>
+        <h6>Report a broken link</h6>
+        <h6>Lajpat Nagar, Delhi, India </h6>
+    </footer>
+</body>
+
+</html>
